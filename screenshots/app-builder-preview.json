@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "HostCut — Free Cloudflare Hosting + Protection",
+      "hasCanvas": false,
+      "bodyTextLen": 12500,
+      "bodyTextHash": "41daa912d59281864a12c05682edda4a909018f8dcc122abe0c45daace3a4943",
+      "bodyTextPrefix": "HostCut Free hosting + protection Dashboard The problem Services",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "HostCut — Free Cloudflare Hosting + Protection",
+      "hasCanvas": false,
+      "bodyTextLen": 12427,
+      "bodyTextHash": "9c2f82f937f6d6c7e6cda9565bd2d430ee94f8aaf0d6f56144ccc4a1b837297f",
+      "bodyTextPrefix": "HostCut Free hosting + protection STOP PAYING FOR HOSTING Stop p",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
